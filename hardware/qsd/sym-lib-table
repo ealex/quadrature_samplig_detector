@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name qsd)(type Legacy)(uri ${KIPRJMOD}/qsd.lib)(options "")(descr ""))
+)
